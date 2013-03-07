@@ -1,0 +1,9 @@
+.idea
+*.ipr
+*.iws
+*.iml
+target
+build
+.gradle
+.gradletasknamecache
+gradle.properties
